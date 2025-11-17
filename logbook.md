@@ -6,5 +6,6 @@
 | 4.11.2025 | 2 | Second class 4.11 16.30-18.30 | Class |
 | 17.11.2025 | 3 | panopto videos 17.11 15.00-18.00 | Self learning |
 | 17.11.2025 | 1 | SQL injection 17.11 19.30-20.30 | SQL injection |
+| 17.11.2025 | 1 | Authentication vulnerabilities 17.11 20.30-21.30 | Authentication vulnerabilities |
 
 
