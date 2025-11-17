@@ -7,5 +7,6 @@
 | 17.11.2025 | 3 | panopto videos 17.11 15.00-18.00 | Self learning |
 | 17.11.2025 | 1 | SQL injection 17.11 19.30-20.30 | SQL injection |
 | 17.11.2025 | 1 | Authentication vulnerabilities 17.11 20.30-21.30 | Authentication vulnerabilities |
+| 17.11.2025 | 1 | Access control vulnerabilities and privilege escalation 17.11 21.30-22.30 | Access control vulnerabilities and privilege escalation |
 
 
