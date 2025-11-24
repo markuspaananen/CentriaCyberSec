@@ -82,6 +82,6 @@ Running the zap first in start here --> attack, then running active scan 2 times
 
 ---
 > [!NOTE]
-> 📁 **Attach full report:** → `check itslearning` → **https://github.com/markuspaananen/CentriaCyberSec/blob/main/BookingSystem-Phase1/2025-11-24-ZAP-Report-.md**
+> 📁 **Attach full report:** → `check itslearning` → **https://github.com/markuspaananen/CentriaCyberSec/blob/main/BookingSystem-Phase1/zap_report_round1.md**
 
 ---
