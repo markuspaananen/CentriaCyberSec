@@ -4,7 +4,7 @@
 - Name:  Markus Paananen
 
 **Purpose:**  
-- Describe the purpose of this test (e.g., identify vulnerabilities in registration and authentication flows).
+- Identify vulnerabilities in registration and authentication flows.
 
 **Scope:**  
 - Tested components:  http://localhost:8000/register
