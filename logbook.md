@@ -8,5 +8,9 @@
 | 17.11.2025 | 1 | SQL injection 17.11 19.30-20.30 | SQL injection |
 | 17.11.2025 | 1 | Authentication vulnerabilities 17.11 20.30-21.30 | Authentication vulnerabilities |
 | 17.11.2025 | 1 | Access control vulnerabilities and privilege escalation 17.11 21.30-22.30 | Access control vulnerabilities and privilege escalation |
+| 24.11.2025 | 2 | Setting enviroment phase1 24.11 14.00-16.00 | setting the docker and wm enviroment |
+| 24.11.2025 | 3 | panopto classes watching to learn how to do phase1 24.11 17.00-20.00 | Panopto classes watching to learn how to do phase1 |
+| 24.11.2025 | 1.5 | Actual testing and report writing + logbook update 24.11 20.00-21.30 | Actual testing and report writing + logbook update |
+
 
 
