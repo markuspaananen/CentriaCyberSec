@@ -67,8 +67,6 @@ Running the zap first in start here --> attack, then running active scan 2 times
 
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
-- https://github.com/markuspaananen/CentriaCyberSec/blob/main/BookingSystem-Phase1/2025-11-24-ZAP-Report-.md
-
 ---
 
 **Instructions (CMD version):**
@@ -84,6 +82,6 @@ Running the zap first in start here --> attack, then running active scan 2 times
 
 ---
 > [!NOTE]
-> 📁 **Attach full report:** → `check itslearning` → **Add a link here**
+> 📁 **Attach full report:** → `check itslearning` → **https://github.com/markuspaananen/CentriaCyberSec/blob/main/BookingSystem-Phase1/2025-11-24-ZAP-Report-.md**
 
 ---
