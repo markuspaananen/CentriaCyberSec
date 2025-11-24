@@ -30,11 +30,11 @@ Running the zap first in start here --> attack, then running active scan 2 times
 **Overall risk level:** High
 
 **Top 5 immediate actions:**  
-1.  
-2.  
-3.  
-4.  
-5.  
+1.  Fix SQL injection in registration
+2.  Fix Path travelsal in registration
+3.  Add Anti-csrf tokens
+4.  Set CSP header
+5.  Fix error/warnings
 
 ---
 
