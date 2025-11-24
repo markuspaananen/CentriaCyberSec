@@ -66,18 +66,9 @@ Running the zap first in start here --> attack, then running active scan 2 times
 
 ---
 
-> [!NOTE]
-> Include up to 5 findings total.   
-> Keep each description short and clear.
-
-
-
----
-
 # 5️⃣ OWASP ZAP Test Report (Attachment)
 
-**Purpose:**  
-- Attach or link your OWASP ZAP scan results (Markdown format preferred).
+- https://github.com/markuspaananen/CentriaCyberSec/blob/main/BookingSystem-Phase1/2025-11-24-ZAP-Report-.md
 
 ---
 
