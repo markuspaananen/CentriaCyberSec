@@ -24,7 +24,7 @@
 
 # 2️⃣ Executive Summary
 
-**Short summary (1-2 sentences):**  
+**Short summary:**  
 Running the zap first in start here --> attack, then running active scan 2 times.
 
 **Overall risk level:** High
@@ -50,7 +50,7 @@ Running the zap first in start here --> attack, then running active scan 2 times
 
 ---
 
-# 4️⃣ Findings (filled with examples → replace)
+# 4️⃣ Findings
 
 > Fill in one row per finding. Focus on clarity and the most important issues.
 
