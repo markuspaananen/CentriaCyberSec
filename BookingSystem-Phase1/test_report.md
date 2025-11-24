@@ -60,7 +60,6 @@ Running the zap first in start here --> attack, then running active scan 2 times
 | F-02 | 🔴 High | Path travelsal in registration | Path Traversal| ZAP alert ID 6 |
 | F-02 | 🟠 Medium | No Anti-CSRF tokens were found in a HTML submission form | Absence of Anti-CSRF Tokens | ZAP alert ID 10202 |
 | F-03 | 🟠 Medium | Content Security Policy (CSP) Header Not Set | Content Security Policy can prevent esim. cross site scripting | ZAP alert ID 10038 |
-
 | F-04 | 🟠 Medium | Missing Anti-clickjacking Header | CThe response does not protect against 'ClickJacking' attacks. | ZAP alert ID 10020 |
 | F-05 | 🟡 Low | Application Error Disclosure | This page contains an error/warning message that may disclose sensitive information. | ZAP alert ID 90022|
 
