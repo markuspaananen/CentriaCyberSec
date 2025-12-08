@@ -11,6 +11,9 @@
 | 24.11.2025 | 2 | Setting enviroment phase1 24.11 14.00-16.00 | setting the docker and wm enviroment |
 | 24.11.2025 | 3 | panopto classes watching to learn how to do phase1 24.11 17.00-20.00 | Panopto classes watching to learn how to do phase1 |
 | 24.11.2025 | 1.5 | Actual testing and report writing + logbook update 24.11 20.00-21.30 | Actual testing and report writing + logbook update |
+| 2.12.2025 | 5 | Video watching and figuring what do you want me to do? 2.12 13.00-18.00 | Video watching and figuring what do you want me to do? |
+| 2.12.2025 | 2 | Doing the task and still figuring what is this esotiric "forum" i need to post to? 2.12 18.00-20.00 | Doing the task and still figuring what is this esotiric "forum" i need to post to? |
+
 
 
 
