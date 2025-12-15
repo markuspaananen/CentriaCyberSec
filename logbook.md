@@ -15,8 +15,11 @@
 | 2.12.2025 | 2 | Doing the task and still figuring what is this esotiric "forum" i need to post to? 2.12 18.00-20.00 | Doing the task and still figuring what is this esotiric "forum" i need to post to? |
 | 8.12.2025 | 2 | Part3 14.00-16.00 | Fix enviroment and zap raport |
 | 8.12.2025 | 3 | Part3 16.00-19.00 | Watch video and do task as well based on the video |
+| 12.12.2025 | 4 | 16.00-20.00 | Lab material reading while traveling. |
+| 13.12.2025 | 14 | 8.00-22.00 | Lab material reading and watching topic videos in my parents house. |
+| 14.12.2025 | 14 | 8.00-22.00 | Lab material reading and watching topic videos in my parents house. |
 
-Total hours so far: 28,5 h
+Total hours so far: 60,5 h
 
 
 
