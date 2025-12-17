@@ -21,8 +21,9 @@
 | 15.12.2025 | 5 | 12.00-17.00 | Labs material and labs doing. |
 | 16.12.2025 | 4 | 18.00-22.00 | panopto videos refress study. |
 | 17.12.2025 | 5 | 18.00-23.00 | Labs and reading the material for labs. |
+| 17.12.2025 | 5 | 23.00-00.00 | Panopto videos study |
 
-Total hours so far: 74,5 h
+Total hours so far: 75,5 h
 
 
 
