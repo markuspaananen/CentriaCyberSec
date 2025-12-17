@@ -18,8 +18,10 @@
 | 12.12.2025 | 4 | 16.00-20.00 | Lab material reading while traveling. |
 | 13.12.2025 | 14 | 8.00-22.00 | Lab material reading and watching topic videos in my parents house. |
 | 14.12.2025 | 14 | 8.00-22.00 | Lab material reading and watching topic videos in my parents house. |
+| 15.12.2025 | 5 | 12.00-17.00 | Labs material and labs doing. |
+| 16.12.2025 | 4 | 18.00-22.00 | panopto videos refress study. |
 
-Total hours so far: 60,5 h
+Total hours so far: 69,5 h
 
 
 
