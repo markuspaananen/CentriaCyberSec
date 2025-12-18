@@ -34,7 +34,7 @@
 - ooking system phase 1 part 1: hours: 6.5
 - Booking system phase 1 part 2: hours: 7
 - Booking system phase 2: hours: 5
-- Booking system phase 3 and 4: hours: 54
+- Booking system phase 3 and 4 + labs : hours: 54
 
 - Total = (4+6+6,5+7+5+54) = 82.5
 
