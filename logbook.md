@@ -27,7 +27,7 @@
 | 18.12.2025 | 1 | 00.00-01.00 | Panopto videos study |
 | 18.12.2025 | 3.5 | 10.30-14.00 | Phase3 and videos checking |
 
-Total hours so far: 79 h
+Total hours so far: 76 h
 
 
 
