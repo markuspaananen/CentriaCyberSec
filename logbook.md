@@ -16,14 +16,18 @@
 | 8.12.2025 | 2 | Part3 14.00-16.00 | Fix enviroment and zap raport |
 | 8.12.2025 | 3 | Part3 16.00-19.00 | Watch video and do task as well based on the video |
 | 12.12.2025 | 4 | 16.00-20.00 | Lab material reading while traveling. |
-| 13.12.2025 | 14 | 8.00-22.00 | Lab material reading and watching topic videos in my parents house. |
-| 14.12.2025 | 14 | 8.00-22.00 | Lab material reading and watching topic videos in my parents house. |
+| 13.12.2025 | 6 | 8.00-14.00 | Lab material reading and watching topic videos in my parents house. |
+| 13.12.2025 | 7 | 15.00-22.00 | Lab material reading and watching topic videos in my parents house. |
+| 14.12.2025 | 5 | 8.00-13.00 | Lab material reading and watching topic videos in my parents house. |
+| 14.12.2025 | 6 | 15.00-21.00 | Lab material reading and watching topic videos in my parents house. |
 | 15.12.2025 | 5 | 12.00-17.00 | Labs material and labs doing. |
 | 16.12.2025 | 4 | 18.00-22.00 | panopto videos refress study. |
 | 17.12.2025 | 5 | 18.00-23.00 | Labs and reading the material for labs. |
-| 17.12.2025 | 5 | 23.00-00.00 | Panopto videos study |
+| 17.12.2025 | 1 | 23.00-00.00 | Panopto videos study |
+| 18.12.2025 | 1 | 00.00-01.00 | Panopto videos study |
+| 18.12.2025 | 3.5 | 10.30-14.00 | Phase3 and videos checking |
 
-Total hours so far: 75,5 h
+Total hours so far: 79 h
 
 
 
