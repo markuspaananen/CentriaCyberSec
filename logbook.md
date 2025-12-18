@@ -29,16 +29,16 @@
 | 18.12.2025 | 3,5 | 10.30-14.00 | Phase3 and videos checking |
 | 18.12.2025 | 2,5 | 14.30-17.00 | Phase4 and videos checking |
 
-task 1: hours: 4
-task3: hours: 6
-Booking system phase 1 part 1: hours: 6.5
-Booking system phase 1 part 2: hours: 7
-Booking system phase 2: hours: 5
-Booking system phase 3 and 4: hours: 54
+- task 1: hours: 4
+- task3: hours: 6
+- ooking system phase 1 part 1: hours: 6.5
+- Booking system phase 1 part 2: hours: 7
+- Booking system phase 2: hours: 5
+- Booking system phase 3 and 4: hours: 54
 
-Total = (4+6+6,5+7+5+54) = 82.5
+- Total = (4+6+6,5+7+5+54) = 82.5
 
-Total hours so far: 82.5 h
+> Total hours so far: 82.5 h
 
 
 
