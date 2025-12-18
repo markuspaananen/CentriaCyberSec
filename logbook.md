@@ -25,7 +25,7 @@
 | 17.12.2025 | 5 | 18.00-23.00 | Labs and reading the material for labs. |
 | 17.12.2025 | 1 | 23.00-00.00 | Panopto videos study |
 | 18.12.2025 | 1 | 00.00-01.00 | Panopto videos study |
-| 18.12.2025 | 4 | 04.00-08.00 | Phase4 and videos checking |
+| 18.12.2025 | 4 | 04.00-08.00 | labs and videos checking |
 | 18.12.2025 | 3,5 | 10.30-14.00 | Phase3 and videos checking |
 | 18.12.2025 | 2,5 | 14.30-17.00 | Phase4 and videos checking |
 
